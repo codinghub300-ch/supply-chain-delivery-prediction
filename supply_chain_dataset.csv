@@ -1,0 +1,302 @@
+Shipping_Mode,Order_Region,Order_Item_Quantity,Product_Price,Shipping_Days,Late_delivery_risk
+Same Day,Asia,7,328,3,0
+Standard,LATAM,9,110,4,1
+Same Day,Africa,4,338,1,0
+Same Day,US,4,282,8,1
+Standard,Africa,6,274,7,1
+Standard,US,3,468,7,1
+Same Day,Africa,6,408,3,0
+Express,LATAM,7,417,3,0
+Same Day,US,3,47,2,0
+Same Day,Asia,7,428,1,0
+Same Day,Africa,3,103,7,1
+Same Day,Africa,2,104,7,1
+Standard,US,4,314,2,0
+Same Day,Asia,8,78,7,1
+Express,Asia,9,327,8,1
+Standard,LATAM,7,453,1,1
+Express,Asia,1,245,9,1
+Express,Asia,3,443,7,1
+Express,Asia,9,343,3,0
+Express,Europe,1,382,8,1
+Standard,LATAM,9,385,7,1
+Standard,Africa,8,468,8,1
+Express,US,1,146,6,0
+Express,Africa,6,427,9,1
+Standard,LATAM,5,85,5,0
+Standard,US,6,492,3,1
+Standard,LATAM,5,44,3,0
+Same Day,Asia,6,10,1,0
+Same Day,US,5,305,8,1
+Same Day,Asia,5,329,2,0
+Express,Africa,4,415,3,0
+Same Day,Africa,3,69,8,1
+Express,US,3,329,8,1
+Express,US,4,358,4,0
+Same Day,LATAM,9,337,4,0
+Express,LATAM,2,276,5,0
+Same Day,Asia,9,370,6,0
+Same Day,US,1,238,5,0
+Standard,Africa,1,279,7,1
+Same Day,LATAM,5,325,2,0
+Standard,LATAM,6,295,7,1
+Same Day,Africa,6,300,7,1
+Same Day,LATAM,3,222,1,0
+Standard,Asia,7,174,7,1
+Standard,US,9,14,5,1
+Same Day,Africa,8,348,3,0
+Express,US,6,388,3,0
+Standard,LATAM,8,87,4,1
+Express,LATAM,5,419,2,0
+Express,Africa,8,71,2,0
+Express,Asia,4,141,1,0
+Standard,Europe,8,98,5,1
+Express,Africa,2,246,4,0
+Standard,Europe,5,51,2,0
+Express,Europe,9,98,3,0
+Same Day,Asia,4,411,7,1
+Same Day,Europe,6,305,7,1
+Standard,Europe,1,337,4,0
+Same Day,Asia,9,304,5,0
+Same Day,Europe,1,113,5,0
+Express,Europe,5,23,6,0
+Standard,Europe,4,297,9,1
+Express,Africa,3,188,2,0
+Express,Africa,6,134,5,0
+Express,Africa,2,431,3,0
+Express,Asia,3,362,4,0
+Express,LATAM,5,32,6,0
+Express,Europe,9,72,8,1
+Express,Europe,2,152,1,0
+Standard,Asia,8,490,8,1
+Same Day,Europe,2,162,7,1
+Express,Africa,5,154,1,0
+Express,LATAM,7,234,2,0
+Express,US,8,459,3,0
+Express,Europe,1,471,1,0
+Express,Africa,6,318,9,1
+Express,US,1,113,8,1
+Same Day,LATAM,2,113,2,0
+Same Day,US,1,444,9,1
+Express,Africa,5,48,7,1
+Same Day,US,9,444,9,1
+Standard,Asia,6,207,6,1
+Express,US,1,143,6,0
+Standard,Europe,1,76,4,0
+Standard,Europe,2,400,2,0
+Express,Asia,9,188,7,1
+Same Day,Africa,3,465,5,0
+Standard,Europe,1,51,6,0
+Express,LATAM,5,457,2,0
+Standard,Europe,7,24,5,1
+Standard,Europe,6,120,4,1
+Standard,Africa,1,166,9,1
+Standard,US,5,298,6,0
+Same Day,Europe,5,487,2,0
+Standard,Asia,6,240,1,1
+Standard,US,3,420,5,0
+Standard,LATAM,5,429,9,1
+Same Day,Africa,7,166,6,0
+Standard,LATAM,5,47,7,1
+Standard,US,5,450,5,0
+Same Day,US,5,106,6,0
+Same Day,US,3,494,5,0
+Same Day,LATAM,1,420,9,1
+Standard,US,5,448,6,0
+Same Day,LATAM,9,298,8,1
+Same Day,US,1,263,2,0
+Standard,Asia,3,205,9,1
+Same Day,US,4,95,5,0
+Standard,LATAM,1,331,7,1
+Express,Europe,1,19,1,0
+Same Day,US,8,14,5,0
+Express,Europe,2,132,2,0
+Standard,Asia,8,339,6,1
+Same Day,Africa,7,362,1,0
+Standard,Asia,2,127,3,0
+Express,US,6,303,5,0
+Standard,Europe,6,406,4,1
+Same Day,Europe,3,168,3,0
+Same Day,LATAM,2,312,5,0
+Express,Europe,1,237,8,1
+Standard,LATAM,6,374,4,1
+Same Day,Africa,5,225,1,0
+Express,US,9,445,7,1
+Same Day,LATAM,1,193,8,1
+Same Day,Africa,7,24,3,0
+Standard,Europe,5,166,6,0
+Same Day,Europe,5,145,2,0
+Standard,Africa,2,270,7,1
+Same Day,Europe,3,166,8,1
+Express,Africa,7,56,6,0
+Same Day,LATAM,6,333,6,0
+Standard,LATAM,2,341,5,0
+Standard,Africa,6,182,8,1
+Express,LATAM,2,139,1,0
+Same Day,LATAM,2,420,4,0
+Same Day,LATAM,2,104,4,0
+Express,Asia,3,124,3,0
+Same Day,US,2,252,3,0
+Same Day,Europe,4,429,4,0
+Standard,Asia,9,301,1,1
+Same Day,LATAM,6,291,2,0
+Same Day,Africa,1,308,9,1
+Express,LATAM,8,292,2,0
+Express,US,7,78,5,0
+Standard,LATAM,3,157,9,1
+Same Day,Africa,1,20,9,1
+Same Day,US,5,263,8,1
+Same Day,LATAM,4,339,1,0
+Standard,US,8,369,1,1
+Standard,Europe,1,47,9,1
+Express,Europe,1,143,8,1
+Standard,LATAM,4,209,9,1
+Same Day,US,8,32,7,1
+Same Day,Africa,5,312,3,0
+Standard,LATAM,2,355,3,0
+Same Day,Europe,6,311,2,0
+Same Day,Europe,5,372,5,0
+Standard,LATAM,2,405,3,0
+Standard,US,3,227,6,0
+Same Day,Europe,9,150,2,0
+Same Day,US,7,113,3,0
+Same Day,Europe,7,455,5,0
+Express,Europe,6,219,1,0
+Express,Asia,8,482,1,0
+Express,Europe,4,490,9,1
+Standard,Africa,8,120,7,1
+Express,LATAM,4,113,1,0
+Standard,LATAM,8,325,8,1
+Standard,US,9,180,3,1
+Express,Europe,3,469,8,1
+Express,Africa,3,365,5,0
+Express,US,2,333,1,0
+Same Day,Asia,3,142,7,1
+Express,US,3,385,5,0
+Same Day,US,5,302,6,0
+Standard,Europe,5,337,6,0
+Same Day,Asia,2,136,8,1
+Express,US,6,115,9,1
+Standard,Africa,5,101,2,0
+Standard,Africa,6,296,9,1
+Standard,LATAM,1,387,9,1
+Same Day,Asia,5,402,7,1
+Express,Asia,9,60,1,0
+Standard,LATAM,2,38,7,1
+Standard,US,1,471,5,0
+Standard,Asia,9,305,6,1
+Same Day,Africa,9,306,7,1
+Same Day,Africa,9,223,5,0
+Express,Europe,6,276,7,1
+Same Day,Asia,8,416,9,1
+Standard,US,1,266,3,0
+Express,LATAM,4,311,8,1
+Standard,LATAM,1,110,2,0
+Standard,US,8,414,7,1
+Same Day,Europe,1,355,2,0
+Express,LATAM,3,119,4,0
+Same Day,Asia,4,429,7,1
+Same Day,Europe,8,191,3,0
+Express,Asia,6,480,2,0
+Standard,Africa,7,322,7,1
+Standard,Europe,8,10,1,1
+Express,LATAM,2,328,8,1
+Standard,Europe,8,447,3,1
+Express,Europe,3,64,2,0
+Express,Europe,7,380,3,0
+Same Day,Europe,3,433,5,0
+Express,Asia,7,408,8,1
+Same Day,Africa,2,158,7,1
+Standard,US,6,440,7,1
+Standard,Europe,3,466,7,1
+Standard,LATAM,3,318,8,1
+Standard,Europe,9,146,1,1
+Same Day,LATAM,7,211,4,0
+Standard,Asia,5,445,6,0
+Express,LATAM,7,322,9,1
+Express,US,9,126,2,0
+Express,Africa,1,163,1,0
+Same Day,LATAM,7,434,2,0
+Standard,LATAM,6,300,7,1
+Standard,Africa,9,72,3,1
+Standard,US,1,253,2,0
+Same Day,Europe,4,34,7,1
+Express,LATAM,9,99,2,0
+Express,Africa,4,84,3,0
+Standard,Asia,3,303,7,1
+Express,Africa,9,395,4,0
+Express,Asia,2,400,1,0
+Same Day,US,4,219,5,0
+Same Day,Europe,6,484,9,1
+Same Day,Africa,2,427,8,1
+Same Day,LATAM,8,356,9,1
+Standard,US,8,26,9,1
+Same Day,Africa,1,137,7,1
+Express,LATAM,3,436,4,0
+Standard,Africa,9,452,5,1
+Express,Asia,5,373,1,0
+Express,Africa,6,260,1,0
+Express,Africa,4,188,3,0
+Same Day,Africa,2,191,8,1
+Same Day,US,8,161,2,0
+Standard,Africa,6,34,4,1
+Standard,LATAM,5,464,2,0
+Same Day,Asia,9,189,5,0
+Express,Asia,1,207,9,1
+Standard,Africa,5,353,1,0
+Same Day,US,6,170,5,0
+Same Day,US,5,186,9,1
+Same Day,LATAM,6,294,1,0
+Express,Africa,6,72,9,1
+Same Day,Asia,7,159,8,1
+Same Day,US,4,163,4,0
+Same Day,Africa,8,165,5,0
+Same Day,US,7,379,5,0
+Standard,US,9,478,6,1
+Standard,Asia,7,58,7,1
+Same Day,Europe,3,464,8,1
+Express,LATAM,3,346,8,1
+Standard,LATAM,8,93,2,1
+Same Day,Asia,5,370,9,1
+Standard,US,4,186,7,1
+Standard,Africa,8,157,4,1
+Express,US,6,127,4,0
+Same Day,Asia,2,351,8,1
+Same Day,LATAM,4,485,4,0
+Express,US,4,72,6,0
+Express,LATAM,6,198,5,0
+Same Day,Africa,6,369,3,0
+Same Day,LATAM,1,58,2,0
+Express,LATAM,8,336,9,1
+Standard,Europe,6,266,9,1
+Standard,Europe,3,233,1,0
+Express,Europe,9,150,3,0
+Standard,LATAM,2,487,8,1
+Express,Asia,8,224,6,0
+Standard,LATAM,3,444,5,0
+Standard,Asia,5,388,5,0
+Same Day,Asia,6,449,6,0
+Same Day,Europe,6,220,7,1
+Standard,US,4,327,1,0
+Standard,Africa,3,41,9,1
+Same Day,Europe,4,167,3,0
+Same Day,Europe,1,294,4,0
+Same Day,US,4,314,1,0
+Express,Africa,1,438,3,0
+Standard,LATAM,1,486,2,0
+Same Day,LATAM,6,295,2,0
+Standard,Europe,5,153,1,0
+Express,Africa,4,433,8,1
+Express,Europe,3,28,3,0
+Same Day,Asia,1,27,3,0
+Express,Europe,6,266,6,0
+Standard,Europe,2,87,8,1
+Same Day,LATAM,8,380,9,1
+Standard,LATAM,5,184,9,1
+Standard,LATAM,7,203,4,1
+Express,Asia,2,485,5,0
+Express,LATAM,8,122,2,0
+Express,Africa,2,123,9,1
+Express,US,4,231,8,1
+Express,Africa,1,175,3,0
+,,,,,
